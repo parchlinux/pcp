@@ -7,10 +7,10 @@ archs = ("x86_64",)
 archs_text = """[../](..)
 
 """
-README_text = """# PCP: Parch Config Pacman repository
+README_text = """# PPR: Parch Pacman repository
 
 """
-base_url = "https://parch-os.github.io/pcp/{arch}/{package}"
+base_url = "https://parchlinux.github.io/ppr/{arch}/{package}"
 
 for arch in archs:
     logging.info("Generating for arch: %s", arch)
