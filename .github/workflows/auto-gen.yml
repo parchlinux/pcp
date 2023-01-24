@@ -28,6 +28,6 @@ jobs:
       - run: git config --global user.name "readme-gen"
       - run: git config --global user.email "<>"
       - run: python auto-gen.py
-      - run: git add README.md
+      - run: git add -A
       - run: git commit -m "auto generate README.md" || echo "nothing to commit, working tree clean"; exit 0
       - run: git push
