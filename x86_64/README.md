@@ -1,5 +1,8 @@
 [../](..)
 
+- [amberol-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/amberol-0.10.3-1-x86_64.pkg.tar.zst)
+- [catppuccin-gtk-theme-mocha-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/catppuccin-gtk-theme-mocha-0.6.0-1-any.pkg.tar.zst)
+- [catppuccin-mocha-dark-cursors-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/catppuccin-mocha-dark-cursors-1.00-1-any.pkg.tar.zst)
 - [dmscripts-git-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/dmscripts-git-1.0.r485.343ed73-1-any.pkg.tar.zst)
 - [fira-code-font-1-0-x86_64](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/fira-code-font-1-0-x86_64.pkg.tar.zst)
 - [fira-code-mono-1-0-x86_64](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/fira-code-mono-1-0-x86_64.pkg.tar.zst)
@@ -11,3 +14,6 @@
 - [parch-dwm-dots-6](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-dwm-dots-6.4-2-x86_64.pkg.tar.zst)
 - [parch-lxqt-config-1-1-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-lxqt-config-1-1-any.pkg.tar.zst)
 - [parch-wm-calamares-1-1-x86_64](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-wm-calamares-1-1-x86_64.pkg.tar.zst)
+- [sticky-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/sticky-1.16-1-any.pkg.tar.zst)
+- [timeshift-23](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/timeshift-23.06.2-1-x86_64.pkg.tar.zst)
+- [webapp-manager-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/webapp-manager-1.3.0-1-any.pkg.tar.zst)
