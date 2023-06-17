@@ -11,6 +11,7 @@
 - [nordic-bluish-accent-standard-buttons-theme-2](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/nordic-bluish-accent-standard-buttons-theme-2.0.0-1-x86_64.pkg.tar.zst)
 - [nordzy-cursors-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/nordzy-cursors-0.6.0-1-any.pkg.tar.zst)
 - [openbox-arc-git-20230530](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/openbox-arc-git-20230530.r21.5ebdb7f-1-any.pkg.tar.zst)
+- [parch-budgie-config-1-0-x86_64](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-budgie-config-1-0-x86_64.pkg.tar.zst)
 - [parch-dwm-config-2-1-x86_64](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-dwm-config-2-1-x86_64.pkg.tar.zst)
 - [parch-dwm-dots-6](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-dwm-dots-6.4-2-x86_64.pkg.tar.zst)
 - [parch-lxqt-config-1-1-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-lxqt-config-1-1-any.pkg.tar.zst)
