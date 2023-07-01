@@ -6,6 +6,7 @@
 - [catppuccin-gtk-theme-mocha-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/catppuccin-gtk-theme-mocha-0.6.0-1-any.pkg.tar.zst)
 - [catppuccin-mocha-dark-cursors-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/catppuccin-mocha-dark-cursors-1.00-1-any.pkg.tar.zst)
 - [dmscripts-git-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/dmscripts-git-1.0.r485.343ed73-1-any.pkg.tar.zst)
+- [dnsch-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/dnsch-1.1-1-any.pkg.tar.zst)
 - [fira-code-font-1-0-x86_64](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/fira-code-font-1-0-x86_64.pkg.tar.zst)
 - [fira-code-mono-1-0-x86_64](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/fira-code-mono-1-0-x86_64.pkg.tar.zst)
 - [nm-tray-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/nm-tray-0.5.0-1-x86_64.pkg.tar.zst)
