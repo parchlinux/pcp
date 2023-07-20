@@ -22,3 +22,4 @@
 - [sticky-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/sticky-1.16-1-any.pkg.tar.zst)
 - [timeshift-23](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/timeshift-23.06.2-1-x86_64.pkg.tar.zst)
 - [webapp-manager-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/webapp-manager-1.3.0-1-any.pkg.tar.zst)
+- [windscribe-v2-bin-2](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/windscribe-v2-bin-2.6.14-1-x86_64.pkg.tar.zst)
