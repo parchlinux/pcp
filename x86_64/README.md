@@ -15,6 +15,7 @@
 - [nvpak-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/nvpak-1-0-any.pkg.tar.zst)
 - [openbox-arc-git-20230530](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/openbox-arc-git-20230530.r21.5ebdb7f-1-any.pkg.tar.zst)
 - [parch-budgie-config-1-0-x86_64](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-budgie-config-1-0-x86_64.pkg.tar.zst)
+- [parch-cutefish-fix-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-cutefish-fix-1-0-any.pkg.tar.zst)
 - [parch-dwm-config-2-1-x86_64](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-dwm-config-2-1-x86_64.pkg.tar.zst)
 - [parch-dwm-dots-6](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-dwm-dots-6.4-2-x86_64.pkg.tar.zst)
 - [parch-iran-backgrounds-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-iran-backgrounds-1.0.5-1-any.pkg.tar.zst)
