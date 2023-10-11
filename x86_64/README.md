@@ -22,6 +22,7 @@
 - [parch-iran-backgrounds-kde-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-iran-backgrounds-kde-1.0.5-1-any.pkg.tar.zst)
 - [parch-lxqt-config-1-1-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-lxqt-config-1-1-any.pkg.tar.zst)
 - [parch-mpv-1-1-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-mpv-1-1-any.pkg.tar.zst)
+- [parch-pantheon-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-pantheon-1-0-any.pkg.tar.zst)
 - [parch-tde-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-tde-1-0-any.pkg.tar.zst)
 - [parch-wm-calamares-1-1-x86_64](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-wm-calamares-1-1-x86_64.pkg.tar.zst)
 - [pfetch-r434](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/pfetch-r434.ce1d56e-1-any.pkg.tar.zst)
