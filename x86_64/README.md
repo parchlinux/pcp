@@ -3,6 +3,7 @@
 - [amberol-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/amberol-0.10.3-1-x86_64.pkg.tar.zst)
 - [appimagepool-appimage-5](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/appimagepool-appimage-5.1.0-1-x86_64.pkg.tar.zst)
 - [bearings-bin-1-0-x86_64](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/bearings-bin-1-0-x86_64.pkg.tar.zst)
+- [catppuccin-gtk-theme-macchiato-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/catppuccin-gtk-theme-macchiato-0.6.1-2-any.pkg.tar.zst)
 - [catppuccin-gtk-theme-mocha-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/catppuccin-gtk-theme-mocha-0.6.0-1-any.pkg.tar.zst)
 - [catppuccin-mocha-dark-cursors-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/catppuccin-mocha-dark-cursors-1.00-1-any.pkg.tar.zst)
 - [dmscripts-git-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/dmscripts-git-1.0.r485.343ed73-1-any.pkg.tar.zst)
