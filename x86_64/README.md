@@ -1,6 +1,7 @@
 [../](..)
 
 - [amberol-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/amberol-0.10.3-1-x86_64.pkg.tar.zst)
+- [ambiant-mate-gtk-themes-22](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/ambiant-mate-gtk-themes-22.04.2-1-any.pkg.tar.zst)
 - [appimagepool-appimage-5](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/appimagepool-appimage-5.1.0-1-x86_64.pkg.tar.zst)
 - [bearings-bin-1-0-x86_64](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/bearings-bin-1-0-x86_64.pkg.tar.zst)
 - [carburetor-4](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/carburetor-4.1.4-1-any.pkg.tar.zst)
