@@ -41,3 +41,4 @@
 - [webapp-manager-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/webapp-manager-1.3.0-1-any.pkg.tar.zst)
 - [windscribe-v2-bin-2](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/windscribe-v2-bin-2.6.14-1-x86_64.pkg.tar.zst)
 - [yay-12](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/yay-12.1.3-1-x86_64.pkg.tar.zst)
+- [zramd-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/zramd-0.9.2-1-any.pkg.tar.zst)
