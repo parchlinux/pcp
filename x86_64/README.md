@@ -18,6 +18,7 @@
 - [nordzy-cursors-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/nordzy-cursors-0.6.0-1-any.pkg.tar.zst)
 - [nvpak-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/nvpak-1-0-any.pkg.tar.zst)
 - [openbox-arc-git-20230530](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/openbox-arc-git-20230530.r21.5ebdb7f-1-any.pkg.tar.zst)
+- [orchis-theme-2023_10_20-1-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/orchis-theme-2023_10_20-1-any.pkg.tar.zst)
 - [parch-budgie-config-1-0-x86_64](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-budgie-config-1-0-x86_64.pkg.tar.zst)
 - [parch-cutefish-fix-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-cutefish-fix-1-0-any.pkg.tar.zst)
 - [parch-dwm-config-2-1-x86_64](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-dwm-config-2-1-x86_64.pkg.tar.zst)
