@@ -40,6 +40,7 @@
 - [tasky-0-5-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/tasky-0-5-any.pkg.tar.zst)
 - [timeshift-23](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/timeshift-23.06.2-1-x86_64.pkg.tar.zst)
 - [tractor-4](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/tractor-4.1.1-1-any.pkg.tar.zst)
+- [tuba-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/tuba-0.6.1-0.1-x86_64.pkg.tar.zst)
 - [webapp-manager-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/webapp-manager-1.3.0-1-any.pkg.tar.zst)
 - [windscribe-v2-bin-2](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/windscribe-v2-bin-2.6.14-1-x86_64.pkg.tar.zst)
 - [yay-12](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/yay-12.1.3-1-x86_64.pkg.tar.zst)
