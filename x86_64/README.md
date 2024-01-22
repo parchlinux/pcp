@@ -26,6 +26,7 @@
 - [parch-dwm-dots-6](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-dwm-dots-6.5-0-x86_64.pkg.tar.zst)
 - [parch-iran-backgrounds-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-iran-backgrounds-1.0.5-1-any.pkg.tar.zst)
 - [parch-iran-backgrounds-kde-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-iran-backgrounds-kde-1.0.5-1-any.pkg.tar.zst)
+- [parch-license-fix-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-license-fix-1-0-any.pkg.tar.zst)
 - [parch-lxqt-config-1-1-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-lxqt-config-1-1-any.pkg.tar.zst)
 - [parch-mpv-1-1-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-mpv-1-1-any.pkg.tar.zst)
 - [parch-pantheon-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-pantheon-1-0-any.pkg.tar.zst)
