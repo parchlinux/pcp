@@ -18,6 +18,7 @@
 - [loutos-1](https://raw.githubusercontent.com/parchlinux/pcp/main/x86_64/loutos-1.1.0-1-x86_64.pkg.tar.zst)
 - [mikhak-fonts-3](https://raw.githubusercontent.com/parchlinux/pcp/main/x86_64/mikhak-fonts-3.2-1-any.pkg.tar.zst)
 - [mpvpaper-1](https://raw.githubusercontent.com/parchlinux/pcp/main/x86_64/mpvpaper-1.4-1-x86_64.pkg.tar.zst)
+- [namban-0](https://raw.githubusercontent.com/parchlinux/pcp/main/x86_64/namban-0.1-1-any.pkg.tar.zst)
 - [nm-tray-0](https://raw.githubusercontent.com/parchlinux/pcp/main/x86_64/nm-tray-0.5.0-1-x86_64.pkg.tar.zst)
 - [nordic-bluish-accent-standard-buttons-theme-2](https://raw.githubusercontent.com/parchlinux/pcp/main/x86_64/nordic-bluish-accent-standard-buttons-theme-2.0.0-1-x86_64.pkg.tar.zst)
 - [nordzy-cursors-0](https://raw.githubusercontent.com/parchlinux/pcp/main/x86_64/nordzy-cursors-0.6.0-1-any.pkg.tar.zst)
