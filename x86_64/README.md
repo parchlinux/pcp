@@ -22,6 +22,7 @@
 - [parch-iran-backgrounds-1](https://raw.githubusercontent.com/parchlinux/pcp/main/x86_64/parch-iran-backgrounds-1.0.5-1-any.pkg.tar.zst)
 - [parch-iran-backgrounds-kde-1](https://raw.githubusercontent.com/parchlinux/pcp/main/x86_64/parch-iran-backgrounds-kde-1.0.5-1-any.pkg.tar.zst)
 - [parch-mpv-1-1-any](https://raw.githubusercontent.com/parchlinux/pcp/main/x86_64/parch-mpv-1-1-any.pkg.tar.zst)
+- [parch-nature-backgrounds-1](https://raw.githubusercontent.com/parchlinux/pcp/main/x86_64/parch-nature-backgrounds-1.0-1-any.pkg.tar.zst)
 - [parch-xfce-dotfile-1](https://raw.githubusercontent.com/parchlinux/pcp/main/x86_64/parch-xfce-dotfile-1.0.0-1-any.pkg.tar.zst)
 - [pfetch-r434](https://raw.githubusercontent.com/parchlinux/pcp/main/x86_64/pfetch-r434.ce1d56e-1-any.pkg.tar.zst)
 - [sticky-1](https://raw.githubusercontent.com/parchlinux/pcp/main/x86_64/sticky-1.16-1-any.pkg.tar.zst)
