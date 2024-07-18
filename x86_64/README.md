@@ -18,6 +18,7 @@
 - [nordzy-cursors-0](https://raw.githubusercontent.com/parchlinux/pcp/main/x86_64/nordzy-cursors-0.6.0-1-any.pkg.tar.zst)
 - [nvpak-1-0-any](https://raw.githubusercontent.com/parchlinux/pcp/main/x86_64/nvpak-1-0-any.pkg.tar.zst)
 - [openbox-arc-git-20230530](https://raw.githubusercontent.com/parchlinux/pcp/main/x86_64/openbox-arc-git-20230530.r21.5ebdb7f-1-any.pkg.tar.zst)
+- [parch-anime-backgrounds-1](https://raw.githubusercontent.com/parchlinux/pcp/main/x86_64/parch-anime-backgrounds-1.0-1-any.pkg.tar.zst)
 - [parch-community-backgrounds-2-0-any](https://raw.githubusercontent.com/parchlinux/pcp/main/x86_64/parch-community-backgrounds-2-0-any.pkg.tar.zst)
 - [parch-iran-backgrounds-1](https://raw.githubusercontent.com/parchlinux/pcp/main/x86_64/parch-iran-backgrounds-1.0.5-1-any.pkg.tar.zst)
 - [parch-iran-backgrounds-kde-1](https://raw.githubusercontent.com/parchlinux/pcp/main/x86_64/parch-iran-backgrounds-kde-1.0.5-1-any.pkg.tar.zst)
